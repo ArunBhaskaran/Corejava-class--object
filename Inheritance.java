@@ -8,7 +8,7 @@ class java
 	System.out.println(a+b);
 	}
 }
-public class Inhertanace extends java
+public class Inhertanace extends java//inhertance
 {
 	public void calu(int a,int b)
 	{
